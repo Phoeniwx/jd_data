@@ -1,4 +1,4 @@
-<h1 align="center">JD-Comments-Spider</h1>
+<h1>JD-Comments-Spider</h1>
 爬取京东iPhone XR评论数据，可爬取2.4万条    
 
 ### 运行环境
